@@ -1,0 +1,14 @@
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Visitor\bin\Debug\netcoreapp3.1\Visitor.exe
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Visitor\bin\Debug\netcoreapp3.1\Visitor.deps.json
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Visitor\bin\Debug\netcoreapp3.1\Visitor.runtimeconfig.json
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Visitor\bin\Debug\netcoreapp3.1\Visitor.runtimeconfig.dev.json
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Visitor\bin\Debug\netcoreapp3.1\Visitor.dll
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Visitor\bin\Debug\netcoreapp3.1\Visitor.pdb
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Visitor\obj\Debug\netcoreapp3.1\Visitor.csproj.AssemblyReference.cache
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Visitor\obj\Debug\netcoreapp3.1\Visitor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Visitor\obj\Debug\netcoreapp3.1\Visitor.AssemblyInfoInputs.cache
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Visitor\obj\Debug\netcoreapp3.1\Visitor.AssemblyInfo.cs
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Visitor\obj\Debug\netcoreapp3.1\Visitor.csproj.CoreCompileInputs.cache
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Visitor\obj\Debug\netcoreapp3.1\Visitor.dll
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Visitor\obj\Debug\netcoreapp3.1\Visitor.pdb
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Visitor\obj\Debug\netcoreapp3.1\Visitor.genruntimeconfig.cache
